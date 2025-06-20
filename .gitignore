@@ -1,0 +1,36 @@
+# Dependências
+/node_modules/
+
+# Compilação Next.js
+/.next/
+out/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache
+.next/cache/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Coverage/Test
+coverage/
+*.lcov
+
+# Arquivos temporários
+*.tmp
+*.bak
